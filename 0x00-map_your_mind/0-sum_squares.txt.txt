@@ -1,0 +1,16 @@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""
+calculate the sum of squares of given input of numbers
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Read number_of_input
+Set count to 0
+Set sum to 0
+
+while(count < number_of_input)
+    Read number
+    Set sum to sum + number*number
+    set count to count + 1
+
+Write sum
